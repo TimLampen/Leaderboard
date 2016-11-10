@@ -1,0 +1,6 @@
+main: me.timlampen.leaderboard.Leaderboard
+version: 1.0
+name: Leaderboard
+commands:
+  lb:
+    aliases: [leaderboard, leaderboards, pvp, pvpstats, stats]

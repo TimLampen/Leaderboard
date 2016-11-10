@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Leaderboard:jar">
+    <output-path>$USER_HOME$/Desktop/1.9 Test/plugins</output-path>
+    <root id="archive" name="Leaderboard.jar">
+      <element id="module-output" name="Leaderboard" />
+    </root>
+  </artifact>
+</component>
